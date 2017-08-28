@@ -1,0 +1,41 @@
+html{
+	font-family:verdana;
+	background-color: BlanchedAlmond;
+	text-align: center;
+	width: 800px;
+}
+	
+	h1{
+	color: DarkSeaGreen;
+	font-size: 40px;
+}
+
+ul li {
+	border: solid;
+	text-align: left;
+}
+
+#první {
+	color: DarkSeaGreen;
+}
+
+.první-třída {
+	font-style: italic;
+}
+
+.tučná-třída {
+	font-weight: bold;
+	color: darkgreen;
+}
+
+th.tučná-třída {
+	font-size: 30px;
+}
+	
+.orámované {
+	border: dashed;
+}
+
+.highlight {
+	color: brown;
+	font-weight: bold;
